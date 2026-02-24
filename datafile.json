@@ -1,0 +1,11 @@
+{
+  "zip":"https://mega.nz",
+  "X":"https://mega.nz/",
+  "repo":"https://github.com/Arslan-MD/Elio-MD",
+  "join":"https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306",
+  "voice":"https://raw.githubusercontent.com/ArslanMDofficial/ARSLAN-MD-DATA/refs/heads/main/autovoice.json",
+  "reply":"https://raw.githubusercontent.com/ArslanMDofficial/ARSLAN-MD-DATA/refs/heads/main/elioreply.json",
+  "status":"https://raw.githubusercontent.com/ArslanMDofficial/ARSLAN-MD-DATA/refs/heads/main/statustext.json",
+  "version":"https://raw.githubusercontent.com/ArslanMDofficial/ARSLAN-MD-DATA/refs/heads/main/version.json",
+  "band":"https://raw.githubusercontent.com/ArslanMDofficial/ARSLAN-MD-DATA/refs/heads/main/bandusers.json" 
+}
